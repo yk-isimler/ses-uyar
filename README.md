@@ -4,7 +4,7 @@ sa.27, 32: <br>
 İbrani 'de "b" ve "v" birbirinin yerine geçtikleri  .. 
 
 
-<span style="color: purple !important; font-weight: bold;">
+<span style="color: purple !important; ">
 
 Bu değişime, ve sonucunda oluşan denk isimlere örnekler -- daha sonraki sayfalardan:
 haver-haber değişimi. 
@@ -16,7 +16,7 @@ Tuba-Toba-Tov değişimi
 sa.32: <br>
 "b" ile "v" misli "d" ile "z" de bir birinin yerine geçebiliyor; 
 <br>
-Ör: erdal-erzal (erz=arz), gida-gaza, fazil-fadil, Ramazan-Ramadan <span style="color: purple !important; font-weight: bold;">(Arapca'nin semitik yapisi)</span>
+Ör: erdal-erzal (erz=arz), gida-gaza, fazil-fadil, Ramazan-Ramadan <span style="color: purple !important; ">(Arapca'nin semitik yapisi)</span>
 
 
 
